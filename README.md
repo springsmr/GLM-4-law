@@ -1,1 +1,1 @@
-# GLM4-law
+# GLM-4-law
